@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GalaxyStart:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GalaxyStart_jar</output-path>
+    <root id="archive" name="GalaxyStart.jar">
+      <element id="module-output" name="GalaxyStart" />
+    </root>
+  </artifact>
+</component>
